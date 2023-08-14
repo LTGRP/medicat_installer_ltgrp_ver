@@ -1,6 +1,6 @@
 #!/bin/bash
-echo -e "WELCOME TO THE MEDICAT INSTALLER, PLEASE DO NOT RUN THIS AS ROOT\nThis Installer will attempt to Install Ventoy and Medicat\nTHIS IS IN BETA. PLEASE CONTACT MATT IN THE DISCORD FOR ALL ISSUES"
-echo "Updated for efficiency and cross-distro use by SkeletonMan"
+echo -e "WELCOME TO THE MEDICAT INSTALLER,\nThis Installer will attempt to Install Ventoy and Medicat\nLTGRP version of medicat. use at your own risk!!!"
+echo "Updated by LTGRP for internal use" 
 echo "Waiting for 10 seconds"
 sleep 10
 
