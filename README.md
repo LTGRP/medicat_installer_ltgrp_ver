@@ -9,7 +9,7 @@
 
 # Compatibility
 * Windows 10/11 (Insider is not always supported)
-* Ubuntu / Arch / Debian / CentOS / FreeBSD / Fedora
+* Arch / Debian / CentOS / FreeBSD / Fedora
 
 #### Requirements for Windows
 * Windows 1703+ (releases after 2017)
